@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "PDF Werkstatt 0.1.0\n\nUpdaterfähige v0.1-Releaseversion mit PDF öffnen, Layout-Regionen bearbeiten, Export und Einstellungen → Update & Version.",
-  "pub_date": "2026-06-12T18:40:54.398Z",
+  "version": "0.1.1",
+  "notes": "PDF Werkstatt 0.1.1\n\nUpdaterfähige Releaseversion. v0.1.1 ist ein kleines Zwischenupdate zum Test der Update-Funktion: sichtbarer Update-Test-Hinweis im Startbereich, unveränderter Kernflow PDF öffnen → bearbeiten → exportieren.",
+  "pub_date": "2026-06-12T18:54:43.958Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnRUaCs4Yjd5MEpPMm5JS0xkanM0TFlCY1M4eUNTWk4weVNmcWp0Z2hEakhQQy9nLzRPd01Wejg2VG9kOEhyWWE1aUh5RmpzRHJFK3Z1MEh4ek9TTXVCVENSMDYrS3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjg5NjUxCWZpbGU6UERGIFdlcmtzdGF0dF8wLjEuMF94NjQtc2V0dXAuZXhlCmpWMjVrVFc4WjRoUHhzL28vZE9WNWx5TmkyVVlZSGJlcG1LNk1pWlFzK01QdVh6MEV5SUJka2Z1ZkR3WlRjdCtrUUNPWEdBb2dFdnN6aW9NN09pb0NnPT0K",
-      "url": "https://raw.githubusercontent.com/Kordariel666/pdf-werkstatt-updates/main/PDF-Werkstatt-0.1.0-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnRUaCs4Yjd5MEpNVllIa1U5QytaZlYweVkybXBoNG5pUS9IRHJsQ1JuRHB5enhTV0JIZk54UEM5aGtQejE0VEpKWU84ZHRsbG9GYjFNaFdNZDg4OHlTKytnZTMwZGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjkwNDgzCWZpbGU6UERGIFdlcmtzdGF0dF8wLjEuMV94NjQtc2V0dXAuZXhlCmJ2VHYvZkVMRXliZ2pvdXgyYVBucWp0RUNvZHM3am5HOFVPL21wOHFOWklnb2c1a2pMeTZ6Y1RGY1RMWXo2djJxZyttRGgzWmdaTHJxYWpKTjZ4UERnPT0K",
+      "url": "https://raw.githubusercontent.com/Kordariel666/pdf-werkstatt-updates/main/PDF-Werkstatt-0.1.1-windows-x64-setup.exe"
     }
   }
 }

@@ -1,5 +1,5 @@
-f14bef54ee5d8944ee93cc55651b6cefd8793a07d729264714708163f03cec32  latest.json
-0cc981951a92c5069806e10ea7aaa8bc03671f5b5e24ea3278e51eff53b44002  PDF-Werkstatt-0.1.0-windows-x64-setup.exe
-77ba879b5bfd5c282d23442b735cf4f35ef406bf875e714ace944bd4d6b93e7e  PDF-Werkstatt-0.1.0-windows-x64-setup.exe.sig
-76d6e3740550ffdc4f7811d4f53aa6a822238015f191e512a45609cbf6995844  PDF-Werkstatt-0.1.0-windows-x64.msi
-59189520e0ccfdb1d942e0dc22cbe0c3dda8d31e670d1c7cd31763199a8f9699  pdf-werkstatt.exe
+ae4be4e791cf7857f44cbf4a7c5da7fee82bd685d80b9d3cc10b54450bc70d00  latest.json
+9f0678e2331ecf3f392bb37dbb075003639b32ee4da99b50ca5fd9a45dba49d1  PDF-Werkstatt-0.1.1-windows-x64-setup.exe
+f3139631120df72c2972778cb047605b34e608e14bd4046d298c4a00b2bf0812  PDF-Werkstatt-0.1.1-windows-x64-setup.exe.sig
+eb5fa7aee35e580ee027d42f1873b7abcf1ff5cba16890bb83147857477e5526  PDF-Werkstatt-0.1.1-windows-x64.msi
+670559bd8e38d0b92ea12a1dc14a7677ed3c80762313f482c855c7962b699ef9  pdf-werkstatt.exe
